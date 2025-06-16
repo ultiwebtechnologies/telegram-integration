@@ -15,13 +15,13 @@
   },
   "autoload": {
     "psr-4": {
-      "PriyaUltiweb\\TelegramIntegration\\": "src/"
+      "Ultiwebtechnologies\\TelegramIntegration\\": "src/"
     }
   },
   "extra": {
     "laravel": {
       "providers": [
-        "PriyaUltiweb\\TelegramIntegration\\TelegramIntegrationServiceProvider"
+        "Ultiwebtechnologies\\TelegramIntegration\\TelegramIntegrationServiceProvider"
       ]
     }
   },
