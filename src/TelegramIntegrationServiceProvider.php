@@ -1,6 +1,6 @@
 <?php
 
-namespace PriyaUltiweb\TelegramIntegration;
+namespace Ultiwebtechnologies\TelegramIntegration;
 
 use Illuminate\Support\ServiceProvider;
 
